@@ -1,3 +1,5 @@
 Hi, this is a first test1 git file
 
 Adding second line
+
+Adding the third line for rebase
