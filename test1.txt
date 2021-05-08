@@ -1,1 +1,3 @@
-Hi, this is a test1 git file
+Hi, this is a first test1 git file
+
+Adding second line
